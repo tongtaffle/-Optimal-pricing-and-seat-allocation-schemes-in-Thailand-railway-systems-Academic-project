@@ -73,8 +73,8 @@ The proposed model demonstrates clear improvements over the baseline (fixed pric
 
 ### Example Visualization
 
-![Result Graph](images/result1.png)
-![Result Graph](images/result2.png)
+![Result Graph](images/result1.PNG)
+![Result Graph](images/result2.PNG)
 ---
 
 ## Key Insights
