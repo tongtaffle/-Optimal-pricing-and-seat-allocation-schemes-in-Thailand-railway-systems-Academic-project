@@ -119,7 +119,7 @@ By adopting dynamic pricing strategies, organizations can:
 /notebooks     # Data processing and modeling workflow
 /src           # Core optimization code
 /images        # Visualizations used in README
-/docs          # Full presentation (optional)
+/docs          # Full presentation
 /README.md     # Project documentation
 ```
 
